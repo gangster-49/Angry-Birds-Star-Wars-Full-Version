@@ -239,3 +239,6 @@ This repository serves as the official landing page for Angry Birds Star Wars. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Angry Birds Star Wars today!**
+
+---
+**Last updated:** 2026-09-07 16:42:29 UTC
